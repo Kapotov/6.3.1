@@ -81,7 +81,7 @@ mysql> SELECT * FROM orders WHERE price > 300;
 +----+----------------+-------+
 | id | title          | price |
 +----+----------------+-------+
-|  2 | Cheburashka |   500 |
+|  2 | Cheburashka    |   500 |
 +----+----------------+-------+
 1 row in set (0.00 sec)
 
